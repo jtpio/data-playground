@@ -1,5 +1,4 @@
-Data Playground
----
+# Data Playground
 
 I take data and try to do something cool with.
 
